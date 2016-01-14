@@ -1,0 +1,28 @@
+name: Blippics
+favicon: null
+layout_spectrum: 0.17504391446709633
+typography_spectrum: 0.4472914105281234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.21239578071981668
+  lightness: 0.07392085436731577
+  saturation: 0.6819712556898594
+  rhythmicContrast: 0.49504747753962874
+purpose: []
